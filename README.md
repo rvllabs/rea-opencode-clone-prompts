@@ -1,7 +1,5 @@
 # Prompt: Clone Fitur Website dengan REA + OpenCode
 
-Prompt dari video tutorial: [tempel link video di sini]
-
 Hanya untuk website milik sendiri atau yang sudah ada izin dari pemiliknya.
 
 1. [Investigasi](1-investigasi.md)
